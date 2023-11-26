@@ -15,8 +15,8 @@ const account2 = {
 };
 
 const account3 = {
-  owner: 'Steven Thomas Williams',
-  movements: [200, -200, 340, -300, -20, 50, 400, -460],
+  owner: 'Abhishek  Rout',
+  movements: [1200, -200, -340, 3000, -200, 5000, 4000, -460],
   interestRate: 0.7,
   pin: 3333,
 };
